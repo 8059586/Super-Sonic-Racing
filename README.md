@@ -1,1 +1,2 @@
-# Super-Sonic-Racing
+# synchronousBallMovement
+Ball moving synchronously
